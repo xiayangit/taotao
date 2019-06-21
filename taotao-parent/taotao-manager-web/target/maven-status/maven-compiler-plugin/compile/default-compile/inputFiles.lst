@@ -1,2 +1,5 @@
-D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\taotao\controller\ItemController.java
-D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\taotao\controller\PageController.java
+D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\xy\taotao\controller\TbItemCatController.java
+D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\xy\taotao\controller\PageController.java
+D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\xy\taotao\utils\FastDFSClient.java
+D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\xy\taotao\controller\TbItemController.java
+D:\Project\taotao\taotao-parent\taotao-manager-web\src\main\java\com\xy\taotao\controller\UploadController.java

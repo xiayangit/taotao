@@ -1,4 +1,5 @@
 com\xy\taotao\utils\FastDFSClient.class
+com\xy\taotao\controller\ContentCategoryController.class
 com\xy\taotao\controller\UploadController.class
 com\xy\taotao\controller\TbItemCatController.class
 com\xy\taotao\controller\PageController.class

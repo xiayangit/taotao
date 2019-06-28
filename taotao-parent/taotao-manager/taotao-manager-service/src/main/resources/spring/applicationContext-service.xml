@@ -18,7 +18,7 @@
 
 	<!-- 发布dubbo服务 -->
 	<!-- 提供方应用信息，用于计算依赖关系 -->
-	<dubbo:application name="taotao-manager" />
+	<dubbo:application name="taotao-manager-service" />
 	<!-- 注册中心的地址 -->
 	<dubbo:registry protocol="zookeeper"
 		address="192.168.128.129:2181" />

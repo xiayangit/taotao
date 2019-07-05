@@ -42,4 +42,6 @@
 	interface="com.xy.taotao.service.TbItemCatService" id="tbItemCatServiceImpl" /> 
 	<dubbo:reference
 	interface="com.xy.taotao.content.service.ContentCategoryService" id="contentCategoryService" /> 
+	<dubbo:reference
+	interface="com.xy.taotao.search.service.SearchItemService" id="searchItemServiceImpl" /> 
 </beans>      

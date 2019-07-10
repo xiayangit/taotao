@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * 青鸟商城自定义响应结构
+ * 商城自定义响应结构
  */
 public class JsonUtils {
 

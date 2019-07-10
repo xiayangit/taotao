@@ -1,2 +1,6 @@
 com\xy\taotao\service\impl\TbItemCatServiceImpl.class
+com\xy\taotao\redis\JedisClientCluster.class
 com\xy\taotao\service\impl\TbItemServiceImpl.class
+com\xy\taotao\service\impl\TbItemServiceImpl$1.class
+com\xy\taotao\redis\JedisClient.class
+com\xy\taotao\redis\JedisClientPool.class
